@@ -42,3 +42,4 @@ FileContentIndex/
 **.suo
 **/obj/Debug/
 **.cache
+*.meta
